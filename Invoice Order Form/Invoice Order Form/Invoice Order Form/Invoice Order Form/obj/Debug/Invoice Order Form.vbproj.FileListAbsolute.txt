@@ -1,0 +1,24 @@
+C:\Users\Ben\source\repos\Invoice Order Form\Invoice Order Form\bin\Debug\Invoice Order Form.exe.config
+C:\Users\Ben\source\repos\Invoice Order Form\Invoice Order Form\bin\Debug\Invoice Order Form.exe
+C:\Users\Ben\source\repos\Invoice Order Form\Invoice Order Form\bin\Debug\Invoice Order Form.pdb
+C:\Users\Ben\source\repos\Invoice Order Form\Invoice Order Form\bin\Debug\Invoice Order Form.xml
+C:\Users\Ben\source\repos\Invoice Order Form\Invoice Order Form\obj\Debug\Invoice Order Form.vbprojAssemblyReference.cache
+C:\Users\Ben\source\repos\Invoice Order Form\Invoice Order Form\obj\Debug\Invoice_Order_Form.Form1.resources
+C:\Users\Ben\source\repos\Invoice Order Form\Invoice Order Form\obj\Debug\Invoice_Order_Form.Resources.resources
+C:\Users\Ben\source\repos\Invoice Order Form\Invoice Order Form\obj\Debug\Invoice Order Form.vbproj.GenerateResource.cache
+C:\Users\Ben\source\repos\Invoice Order Form\Invoice Order Form\obj\Debug\Invoice Order Form.vbproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\Invoice Order Form\Invoice Order Form\obj\Debug\Invoice Order Form.exe
+C:\Users\Ben\source\repos\Invoice Order Form\Invoice Order Form\obj\Debug\Invoice Order Form.xml
+C:\Users\Ben\source\repos\Invoice Order Form\Invoice Order Form\obj\Debug\Invoice Order Form.pdb
+C:\Users\benja\Desktop\Invoice Order Form\Invoice Order Form\Invoice Order Form\Invoice Order Form\bin\Debug\Invoice Order Form.exe.config
+C:\Users\benja\Desktop\Invoice Order Form\Invoice Order Form\Invoice Order Form\Invoice Order Form\bin\Debug\Invoice Order Form.exe
+C:\Users\benja\Desktop\Invoice Order Form\Invoice Order Form\Invoice Order Form\Invoice Order Form\bin\Debug\Invoice Order Form.pdb
+C:\Users\benja\Desktop\Invoice Order Form\Invoice Order Form\Invoice Order Form\Invoice Order Form\bin\Debug\Invoice Order Form.xml
+C:\Users\benja\Desktop\Invoice Order Form\Invoice Order Form\Invoice Order Form\Invoice Order Form\obj\Debug\Invoice Order Form.vbprojAssemblyReference.cache
+C:\Users\benja\Desktop\Invoice Order Form\Invoice Order Form\Invoice Order Form\Invoice Order Form\obj\Debug\Invoice_Order_Form.Form1.resources
+C:\Users\benja\Desktop\Invoice Order Form\Invoice Order Form\Invoice Order Form\Invoice Order Form\obj\Debug\Invoice_Order_Form.Resources.resources
+C:\Users\benja\Desktop\Invoice Order Form\Invoice Order Form\Invoice Order Form\Invoice Order Form\obj\Debug\Invoice Order Form.vbproj.GenerateResource.cache
+C:\Users\benja\Desktop\Invoice Order Form\Invoice Order Form\Invoice Order Form\Invoice Order Form\obj\Debug\Invoice Order Form.vbproj.CoreCompileInputs.cache
+C:\Users\benja\Desktop\Invoice Order Form\Invoice Order Form\Invoice Order Form\Invoice Order Form\obj\Debug\Invoice Order Form.exe
+C:\Users\benja\Desktop\Invoice Order Form\Invoice Order Form\Invoice Order Form\Invoice Order Form\obj\Debug\Invoice Order Form.xml
+C:\Users\benja\Desktop\Invoice Order Form\Invoice Order Form\Invoice Order Form\Invoice Order Form\obj\Debug\Invoice Order Form.pdb
